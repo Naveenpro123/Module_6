@@ -1,11 +1,11 @@
-# Subashree-A-19CS301-Module6
+# Module6
 
-# 19CS301-Module-6
 
-- **Name:** Subashree A  
-- **Register Number:** 212222020029
+
+- **Name:** Naveen P 
+- **Register Number:** 212222050039
   
-EX.NO: 6.1   POLYMORPHISM
+# EX.NO: 6.1   POLYMORPHISM
 
 ### AIM: To Create two specific classes- Beans and Mango. Along with that, create a generic function that tells us the type and color of the object we pass. Mind you, since we have passed only “obj” through it, this obj can be any object.
 
