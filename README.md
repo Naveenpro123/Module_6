@@ -47,7 +47,7 @@ class Mango:
 
 
 
-EXP.No: 6.2 OPERATOR OVERLOADING
+# EXP.No: 6.2 OPERATOR OVERLOADING
 
 ### AIM: write a python program to overload less than operator
 ###ALGORITHM:
@@ -79,7 +79,7 @@ print(ob1<ob2)
 
 
 
-EX: 6.3 ABSTRACT CLASS METHOD
+# EX: 6.3 ABSTRACT CLASS METHOD
 
 ### AIM: To Create the abstract method calculate_area which is of the abstract class 'Shape'
 
@@ -117,7 +117,7 @@ b.calculate_area()
 
 
 
-EXP.No: 6.4     ENCAPSULATION
+# EXP.No: 6.4     ENCAPSULATION
 ### AIM: To Implement Encapsulation using private members –of a class rectangle with private variables length,width.
 ###ALGORITHM: Step1: put class function to define the function using self Step2: By using the function to find the area of the rectangle Step3: Execute the program.
 ###PROGRAM:
